@@ -30,9 +30,6 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 # 🤖 Linguagens e Tecnologias
 
 <div align="center">
-
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-
   <!-- Ícones das Tecnologias + Connect With Me -->
   <div align="left">
 
@@ -64,13 +61,13 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
   </p>
 
   </div>
-  <img src="./src/study.gif" alt="Study" height="150px"/>
-
+  <div align="right">
+  <img src="./src/study.gif" alt="Study" width="300" height="200""/>
+</div>
   </div>
   <br>
-  <p>
   ---
-</p>
+   <br>
 # 📊 Estatísticas
 
 <div style="text-align: center;" align="center">
@@ -88,7 +85,7 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiabomfim/tiabomfim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiabomfim/tiabomfim/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.comt/tiabomfim/tiabomfim/output/github-contribution-grid-snake.svg">
 </picture>
