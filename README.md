@@ -28,7 +28,7 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <img 
     align="left" 
     alt="HTML"
@@ -111,7 +111,7 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rafabomfimreis@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaela-reis-9385a0217/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://www.instagram.com/tia_bomfim?igsh=N3l3d2Vhb3d5YTR0&utm_source=qr]))
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/tia_bomfim?igsh=N3l3d2Vhb3d5YTR0&utm_source=qr)
 <br>
 <br>
 
