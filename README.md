@@ -27,7 +27,7 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 🤖 Linguagens e Tecnologias
 
 <div align="center">
 
@@ -68,8 +68,10 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 
   </div>
   <br>
-  
-### 📊 Estatísticas
+  <p>
+  ---
+</p>
+# 📊 Estatísticas
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
