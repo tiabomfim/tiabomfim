@@ -8,10 +8,7 @@
 
 </p>
 
----
-
 <img align="center" alt="" src="./src/header-gif.gif">
-**`Analista de Sistemas`**
 
 Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática para Internet e Análise e Desenvolvimento de Sistemas pela ETEC Albert Einstein e atualmente curso Análise e Desenvolvimento de Sistemas na São Judas Tadeu (USJT). Sou apaixonada por tecnologia e acredito em seu poder transformador. Minha trajetória inclui iniciativas como a luta pelos direitos dos estudantes enquanto diretora de escolas técnicas na UMES (UNIÃO MUNICIPAL DOS ESTUDANTES SECUNDARISTAS), e a conquista de um curso oferecido pela Cubo em parceria com o Centro Paula Souza, o que reforça minha dedicação em contribuir ativamente para a educação e a inovação tecnológica.
 
@@ -29,12 +26,9 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
 
 # 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <!-- Ícones das Tecnologias + Connect With Me -->
-  <div align="left">
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-  <!-- Tecnologias -->
-  <p>
+<div align="left">
     <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -44,10 +38,13 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
     <img alt="JQuery" title="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
     <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  </p>
-
-  <!-- Seção Connect With Me -->
-  <h3>Connect with me!</h3>
+</div>
+       <br>
+       <br>
+        <br>
+       <br>
+       
+  <h1>Connect with me!</h1>
   <p>
     <a href="mailto:rafabomfimreis@gmail.com">
       <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="E-mail"/>
@@ -59,19 +56,12 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
       <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram"/>
     </a>
   </p>
-
-  </div>
-  <div align="right">
-  <img src="./src/study.gif" alt="Study" width="300" height="200""/>
-</div>
-  </div>
   <br>
-  ---
+
    <br>
-# 📊 Estatísticas
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3>*📊 Estatísticas *</h3>
   <br>
   
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tiabomfim&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
