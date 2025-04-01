@@ -109,4 +109,4 @@ Meu nome é Rafaela Reis, tenho 20 anos, sou formada em Técnico em Informática
   />
 
 </p>
-
+![Snaake animation](https://github.com/rafaballerini/tiabomfim/blob/output/github-contribution-grid-snake.svg)
